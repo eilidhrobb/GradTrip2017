@@ -1,0 +1,37 @@
+body    {
+		text-align: center;
+		font-family: arial; 
+		background-image: url("http://iliketowastemytime.com/sites/default/files/outer-space-hd-wallpaper.jpg");
+		background-size: cover;
+		margin-left:40px;
+		margin-right: 40px;
+		margin-bottom:0px;}
+
+a 		{
+		font-family: arial;
+		color:#B4CFEC;
+		padding: 0px 10px 0px 10px;}
+
+p 		{
+		font-family: arial;
+		color:#B4CFEC;
+		margin-top:20px;
+		margin-bottom:20px;}
+
+h1		{
+		font-size: 60pt;
+		color:#B4CFEC;
+		margin-bottom:0px;}
+
+iframe	{margin-bottom:50px;}
+
+p#end  	{font-family: arial;
+		color:#B4CFEC;
+		margin-top:20px;
+		margin-bottom:20px;}
+
+p#aboutme {font-family: arial;
+		color:white;
+		text-align:justify;
+		margin-top:40px;
+		margin-bottom:20px;}
