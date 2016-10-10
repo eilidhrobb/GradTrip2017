@@ -1,7 +1,7 @@
 body    {
 		text-align: center;
 		font-family: arial; 
-		background-image: url("http://iliketowastemytime.com/sites/default/files/outer-space-hd-wallpaper.jpg");
+		background-image: url("http://www.levantino.gr/images/bg-beach.jpg");
 		background-size: cover;
 		margin-left:40px;
 		margin-right: 40px;
@@ -9,24 +9,24 @@ body    {
 
 a 		{
 		font-family: arial;
-		color:#B4CFEC;
+		color:black;
 		padding: 0px 10px 0px 10px;}
 
 p 		{
 		font-family: arial;
-		color:#B4CFEC;
+		color:black;
 		margin-top:20px;
 		margin-bottom:20px;}
 
 h1		{
 		font-size: 60pt;
-		color:#B4CFEC;
+		color:black;
 		margin-bottom:0px;}
 
 iframe	{margin-bottom:50px;}
 
 p#end  	{font-family: arial;
-		color:#B4CFEC;
+		color:black;
 		margin-top:20px;
 		margin-bottom:20px;}
 
