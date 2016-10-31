@@ -48,9 +48,9 @@ p#destinations {font-family: arial;
 		margin-top:40px;
 		margin-bottom:20px;}
 
-li#input{font-family: arial;
+ul#list{font-family: arial;
 		color:white;
-		text-align:center;
+		text-align:left;
 		}
 
 
