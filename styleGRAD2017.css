@@ -2,10 +2,9 @@ body    {
 		text-align: center;
 		font-family: arial; 
 		background-color: #333537;
-		background-size: cover;
-		margin-left:40px;
-		margin-right: 40px;
-		margin-bottom:0px;}
+		color: white; 
+		}
+	
 
 a 		{
 		font-family: arial;
@@ -19,11 +18,7 @@ p 		{
 		margin-top:20px;
 		margin-bottom:20px;}
 
-div {
-   		column-count: 3;}
 
-p#threeparagraphs 
-		{display:inline-block;}
 
 h1		{
 		font-size: 60pt;
@@ -34,8 +29,6 @@ h2		{
 		color: white;
 		font-size:25pt;
 		}
-
-iframe	{margin-bottom:50px;}
 
 p#end  	{font-family: arial;
 		color:white;
@@ -48,131 +41,8 @@ p#destinations {font-family: arial;
 		margin-top:40px;
 		margin-bottom:20px;}
 
-.hovereffect {
-  width: 100%;
-  height: 100%;
-  float: left;
-  overflow: hidden;
-  position: relative;
-  text-align: center;
-  cursor: default;
-}
-
-.hovereffect .overlay {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  overflow: hidden;
-  top: 0;
-  left: 0;
-  background-color: rgba(75,75,75,0.7);
-  -webkit-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
-}
-
-.hovereffect:hover .overlay {
-  background-color: rgba(48, 152, 157, 0.4);
-}
-
-.hovereffect img {
-  display: block;
-  position: relative;
-}
-
-.hovereffect h2 {
-  text-transform: uppercase;
-  color: #fff;
-  text-align: center;
-  position: relative;
-  font-size: 17px;
-  padding: 10px;
-  background: rgba(0, 0, 0, 0.6);
-  -webkit-transform: translateY(45px);
-  -ms-transform: translateY(45px);
-  transform: translateY(45px);
-  -webkit-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
-}
-
-.hovereffect:hover h2 {
-  -webkit-transform: translateY(5px);
-  -ms-transform: translateY(5px);
-  transform: translateY(5px);
-}
-
-.hovereffect a.info {
-  display: inline-block;
-  text-decoration: none;
-  padding: 7px 14px;
-  text-transform: uppercase;
-  color: #fff;
-  border: 1px solid #fff;
-  background-color: transparent;
-  opacity: 0;
-  filter: alpha(opacity=0);
-  -webkit-transform: scale(0);
-  -ms-transform: scale(0);
-  transform: scale(0);
-  -webkit-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
-  font-weight: normal;
-  margin: -52px 0 0 0;
-  padding: 62px 100px;
-}
-
-.hovereffect:hover a.info {
-  opacity: 1;
-  filter: alpha(opacity=100);
-  -webkit-transform: scale(1);
-  -ms-transform: scale(1);
-  transform: scale(1);
-}
-
-.hovereffect a.info:hover {
-  box-shadow: 0 0 5px #fff;
-}
-
 ul#list{font-family: arial;
 		color:white;
 		text-align:left;
 		}
 
-
-/****************************************************************/
-/***********Getting pics aligned and captions sorted*************/
-/****************************************************************/
-pics {
-	width: 100%;
-}
-
-#pic1 {
-
-	max-width: 700px; /*change this to change the picture size*/
-	margin: 0 auto;
-}
-
-#pic1 img{
-	width: 100%;
-}
-
-#pic2 {
-
-	max-width: 480px;
-	margin: 0 auto;
-}
-
-#pic2 img{
-
-	width: 100%;
-}
-
-#pic3 {
-
-	max-width: 480px;
-	margin: 0 auto;
-}
-
-#pic3 img{
-
-	width: 100%;
-}
