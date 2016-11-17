@@ -156,10 +156,14 @@ p#destinations {
 	margin: 10px;
 }
 
+
+
 ul#list{font-family: arial;
 		color:white;
 		text-align:left;
 		}
+
+
 
 /*------------------------Carousel CSS Coding----------------------*/
 .carousel-inner > .item > img, 
