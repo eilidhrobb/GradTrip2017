@@ -1,7 +1,9 @@
 body    {
 		text-align: center;
 		font-family: arial; 
-		background-color: #333537;
+		background: url("http://www.hotel-senia.com/flash/info/2.jpg");
+		background-size: cover;
+		background-position: center;
 		color: white; 
 		}
 	
