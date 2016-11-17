@@ -130,9 +130,13 @@ p#destinations {font-family: arial;
   box-shadow: 0 0 5px #fff;
 }
 
->>>>>>> Stashed changes
 ul#list{font-family: arial;
 		color:white;
 		text-align:left;
 		}
 
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+      width: 600;
+      height:300;
+      margin: auto;
+      }
