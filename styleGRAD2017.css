@@ -2,7 +2,7 @@ body    {
 		text-align: center;
 		font-family: arial; 
 		background: url("http://67.media.tumblr.com/67f9e1608af7082d9db3df685ff18ab2/tumblr_ogsze0TYkE1u1xf3no1_1280.jpg");
-		background-size: cover;
+		background-size: ;
 		background-position: center;
 		color: white; 
 		}
@@ -17,9 +17,8 @@ a 		{
 p 		{
 		font-family: arial;
 		color:white;
-		margin-top:20px;
+		margin-top:30px;
 		margin-bottom:20px;}
-
 
 
 h1		{
@@ -32,6 +31,22 @@ h2		{
 		font-size:25pt;
 		}
 
+small {
+  font-size: 10pt;
+  font-style: italic;
+}
+input {
+  font-size: 10pt;
+  color: black;
+}
+select {
+  font-size:10;
+  color: black;
+}
+.type {
+  color: white;
+}
+
 p#end  	{font-family: arial;
 		color:white;
 		margin-top:20px;
@@ -42,6 +57,7 @@ p#destinations {font-family: arial;
 		text-align:justify;
 		margin-top:40px;
 		margin-bottom:20px;}
+
 
 <<<<<<< Updated upstream
 =======
