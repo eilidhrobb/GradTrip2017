@@ -1,7 +1,11 @@
 body    {
 		text-align: center;
 		font-family: arial; 
+<<<<<<< HEAD
 		background: url("http://67.media.tumblr.com/67f9e1608af7082d9db3df685ff18ab2/tumblr_ogsze0TYkE1u1xf3no1_1280.jpg");
+=======
+		background: url("http://3.bp.blogspot.com/-Xlq4C1pfwr4/Vbuhn7fBUmI/AAAAAAAAV_k/Gryn2sw9TNk/s1600/tropical-beach-sunset-backgrounds-9391-hd-wallpapers-in-beach-n.jpg");
+>>>>>>> origin/master
 		background-size: cover;
 		background-position: center;
 		color: white; 
